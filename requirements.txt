@@ -1,0 +1,6 @@
+opencv-python
+pillow
+matplotlib
+crewai
+python-dotenv
+google-generativeai
